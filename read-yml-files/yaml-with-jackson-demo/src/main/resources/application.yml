@@ -1,0 +1,39 @@
+logging:
+  level:
+    org.springframework: ERROR
+    com.example: DEBUG
+spring:
+  profiles:
+    active: dev
+  security:
+    oauth2:
+      tokenValidation: true
+      resourceServer:
+        jwt:
+          issuer-client-url: https://test-env-dev.apps.test.net/auth/dev/token
+          issuer-client-id: us-jacksontest
+          issuer-client-credentials: ntTRprmVKUP0yWq
+  datasource:
+    url: jdbc:mysqldb://localhost:3306/randomDB
+    username: jackson-test
+    password: 123456
+
+email: jackson.yml2024@gmail.com
+thread-pool: 10
+wordpress:
+  menus:
+    - title: Home
+      name: Home
+      path: /
+    - title: About
+      name: About
+      path: /about
+  themes:
+    default-folder: /wp-content/themes/jacksonyml
+  servers:
+    - ip: 127.0.0.1
+      path: /dev1
+    - ip: 127.0.0.2
+      path: /dev2
+    - ip: 127.0.0.3
+      path: /dev3
