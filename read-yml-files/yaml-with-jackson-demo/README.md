@@ -1,4 +1,4 @@
-# Read yml files with snake yaml library
+# Read YAML files with Jackson library
 
 ## Prerequisites
 - Java Development Kit (JDK) 8 or later.
