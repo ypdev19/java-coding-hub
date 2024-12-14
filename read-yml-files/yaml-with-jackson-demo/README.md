@@ -1,9 +1,9 @@
 # Read YAML files with Jackson library
 
 ## Prerequisites
-- Java Development Kit (JDK) 8 or later.
-- Maven or Gradle build tool.
-- Jackson library, (using version 2.18.2)
+- Java Development Kit (JDK) 8 or later
+- Maven or Gradle build tool
+- Jackson library (using version 2.18.2)
 
 ## Step-by-Step to run the project
 
