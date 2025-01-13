@@ -1,9 +1,12 @@
 # Read yml files with snake yaml library
+This project showcases various functions for parsing YAML files, from reading a simple YAML file to a nested one.
+
+The `YamlUtils` class contains 3 functions to read a yml in different ways and the `AppRunner` class contains examples.
 
 ## Prerequisites
 - Java Development Kit (JDK) 8 or later.
 - Maven or Gradle build tool.
-- SnakeYAML library, version 2.0
+- SnakeYAML library, [version 2.0](https://mvnrepository.com/artifact/org.yaml/snakeyaml/2.0)
 
 ## Step-by-Step to run the project
 
