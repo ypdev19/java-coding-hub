@@ -1,3 +1,3 @@
-# Java Quests Fiesta
+# Java Coding Hub
 
-Welcome to this Java code vault i called Java Quests Fiesta. The goal is to use it to store all kind of code quests in this beautiful language, from code challenges, problem solving, demo examples, and more!
+Welcome! The goal of this repo is to store all kind of code quests in this beautiful language, from code challenges, problem solving, demo examples, and more!
