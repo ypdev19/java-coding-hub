@@ -1,6 +1,7 @@
-package com.utilities.demo;
+package com.utility.vault;
 
-import com.utilities.demo.util.DateUtils;
+import com.utility.vault.date.DateUtils;
+
 import java.time.format.DateTimeFormatter;
 
 /**

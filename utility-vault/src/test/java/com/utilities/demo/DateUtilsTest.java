@@ -1,6 +1,6 @@
 package com.utilities.demo;
 
-import com.utilities.demo.util.DateUtils;
+import com.utility.vault.date.DateUtils;
 import org.junit.jupiter.api.Test;
 
 import java.time.format.DateTimeFormatter;
