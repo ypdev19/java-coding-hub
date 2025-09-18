@@ -1,4 +1,4 @@
-package com.utilities.demo;
+package com.utility.vault;
 
 import com.utility.vault.date.DateUtils;
 import org.junit.jupiter.api.Test;
