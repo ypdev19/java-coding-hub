@@ -12,8 +12,8 @@ Feel free to explore, learn, or reuse what you find useful.
 - [JwtUtils](src/main/java/com/utility/vault/security/jwt/JwtUtils.java)
 
 
-## 🚀 Learning the Essentials
+## 🚀 Softwate Essential Concepts
 
-👉 [JWT Essentials](https://www.codeqazone.com/jwt-essentials/)
-👉 [YAML Essentials](https://www.codeqazone.com/yaml-essentials/)
+👉 [JWT Essentials](https://www.codeqazone.com/jwt-essentials/)<br>
+👉 [YAML Essentials](https://www.codeqazone.com/yaml-essentials/)<br>
 👉 [Data Serialization and Deserialization for Beginners](https://www.codeqazone.com/data-serialization-deserialization-beginners-guide/)
