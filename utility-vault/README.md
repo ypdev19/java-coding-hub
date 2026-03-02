@@ -10,3 +10,10 @@ Feel free to explore, learn, or reuse what you find useful.
 
 - [DateUtils](src/main/java/com/utility/vault/security/jwt/DateUtils.java)
 - [JwtUtils](src/main/java/com/utility/vault/security/jwt/JwtUtils.java)
+
+
+## 🚀 Learning the Essentials
+
+👉 [JWT Essentials](https://www.codeqazone.com/jwt-essentials/)
+👉 [YAML Essentials](https://www.codeqazone.com/yaml-essentials/)
+👉 [Data Serialization and Deserialization for Beginners](https://www.codeqazone.com/data-serialization-deserialization-beginners-guide/)
